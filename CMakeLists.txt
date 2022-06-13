@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.22)
-project(raylib_starter_kit C CXX)
+project(flappy_birb C CXX)
 
 set(CMAKE_CXX_STANDARD 20)
 
